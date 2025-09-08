@@ -1,3 +1,5 @@
+## Project Report
+You can view the detailed project report [here](https://l1nk.dev/3qhfi)
 #  URL Shortening Service
 
 A **Spring Boot** application for shortening URLs, handling user authentication with JWT, and tracking statistics for each short URL. The service supports user registration, login, short URL creation, redirection, and stats viewing.  
